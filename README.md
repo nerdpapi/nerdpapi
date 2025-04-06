@@ -7,7 +7,7 @@
 ## 💻 About Me
 
 🌱 **BSc IT graduate** with a **CGPA of 8.4**\
-🏗️ Completed **6+ months intensive training at AlmaBetter** in **Full Stack Development**.\
+🏗️ Completed **9+ months intensive training at AlmaBetter** in **Full Stack Development**.\
 🛠️ Skilled in building **responsive and scalable websites and applications**.\
 💬 loves discussing **frontend trends, backend architecture, and project ideas**.\
 📫 **How to reach me**: [kunalkumar@example.com](mailto:kunalkumar@example.com) | [Connect on LinkedIn](https://www.linkedin.com/in/kunal-kumar-33685812b/)

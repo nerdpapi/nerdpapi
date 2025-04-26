@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kunal Kumar
 
-🎯 **Passionate Full Stack Developer** | 🚀 **Trained at AlmaBetter** | 💼 **Former Front-End Developer at Bigberry Media**
+🎯 **Passionate Full Stack Developer** | 🚀 **Trained at AlmaBetter**
 
 ---
 

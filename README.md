@@ -5,14 +5,15 @@
 ---
 
 ## 💻 About Me
-🎓 B.Sc. in Information Technology (CGPA 8.4)
-🎓 Completed 9+ months of intensive Full Stack Development training at AlmaBetter
-🎓 Currently pursuing an M.S. in Computer Science (Cloud Computing & AI System Design) (In Progress)
-🤖 Passionate about building AI-powered applications using LLMs, RAG, AI Agents, and Vector Databases
-💻 Interested in AI Application Architecture, System Design, Cloud Computing, and Scalable Backend Engineering
-🧩 Solved 300+ DSA problems on LeetCode & GeeksforGeeks
-🌱 Continuously learning Cloud Infrastructure, AI Systems, Distributed Computing, and Software Architecture
-🎯 Open to Software Development Engineer (SDE), AI Engineer, and Full Stack Developer opportunities
+- 🎓 **B.Sc. in Information Technology** (CGPA **8.4**)
+- 🎓 Completed **9+ months of intensive Full Stack Development training** at **AlmaBetter**
+- 🎓 **Currently pursuing an M.S. in Computer Science (Cloud Computing & AI System Design)** *(In Progress)*
+- 🤖 Passionate about building **AI-powered applications** using **LLMs, RAG, AI Agents, and Vector Databases**
+- 💻 Interested in **AI Application Architecture, System Design, Cloud Computing, and Scalable Backend Engineering**
+- 🧩 Solved **300+ DSA problems** on **LeetCode** & **GeeksforGeeks**
+- 🌱 Continuously learning **Cloud Infrastructure, AI Systems, Distributed Computing, and Software Architecture**
+- 🎯 Open to **Software Development Engineer (SDE)**, **AI Engineer**, and **Full Stack Developer** opportunities
+
 📫 **How to reach me**: [kunalkmr71@gmail.com](mailto:kunalkmr71@gmail.com) | [Connect on LinkedIn](https://www.linkedin.com/in/kunal-kumar-33685812b/)
 
 ---

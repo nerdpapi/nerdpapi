@@ -10,7 +10,7 @@
 - 🎓 **Currently pursuing an M.S. in Computer Science (Cloud Computing & AI System Design)** *(In Progress)*
 - 🤖 Passionate about building **AI-powered applications** using **LLMs, RAG, AI Agents, and Vector Databases**
 - 💻 Interested in **AI Application Architecture, System Design, Cloud Computing, and Scalable Backend Engineering**
-- 🧩 Solved **300+ DSA problems** on **LeetCode** & **GeeksforGeeks**
+- 🧩 Solved **100+ DSA problems** on **LeetCode** & **GeeksforGeeks**
 - 🌱 Continuously learning **Cloud Infrastructure, AI Systems, Distributed Computing, and Software Architecture**
 - 🎯 Open to **Software Development Engineer (SDE)**, **AI Engineer**, and **Full Stack Developer** opportunities
 

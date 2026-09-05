@@ -50,7 +50,7 @@ I am a Full Stack Developer with a strong interest in **AI application developme
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
 
-### ### Databases & Caching
+### Databases & Caching
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)

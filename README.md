@@ -63,6 +63,8 @@ I am a Full Stack Developer with a strong interest in **AI application developme
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=plastic&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=plastic&logo=netlify&logoColor=00C7B7)

@@ -90,8 +90,4 @@ I am a Full Stack Developer with a strong interest in **AI application developme
 
 I regularly practice **Data Structures and Algorithms** on LeetCode and GeeksforGeeks, focusing on efficient algorithms, problem-solving techniques, and scalable solutions.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kunalkmr71?theme=light&font=baloo)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=kunalkmr71&color=blue&style=flat-square)
+![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile,solved,streak,heatmap)

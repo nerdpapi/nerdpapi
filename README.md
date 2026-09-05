@@ -18,9 +18,7 @@ I am a Full Stack Developer with a strong interest in **AI application developme
 ## Connect With Me
 
 - Email: **kunalkmr71@gmail.com**
-- LinkedIn: [Kunal Kumar](https://www.linkedin.com/in/kunal-kumar-33685812b/)
-- LeetCode: [kunalkmr71](https://leetcode.com/u/kunalkmr71/)
-- GeeksforGeeks: [kunalkmr71](https://auth.geeksforgeeks.org/user/kunalkmr71)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalkmr71) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/kunalkmr71/) [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kunalkmr71)
 
 ## Technical Skills
 

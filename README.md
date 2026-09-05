@@ -50,11 +50,12 @@ I am a Full Stack Developer with a strong interest in **AI application developme
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
 
-### Databases
+### ### Databases & Caching
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)
 ![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=plastic&logo=apache-cassandra&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
